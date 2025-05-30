@@ -8,7 +8,7 @@ red='\033[0;31m'
 green='\033[0;32m'
 cyan='\033[0;36m'
 
-# Variables that are taken with a human imput and a check for the directories existence, if the directory doesn't exit, the script will give a red message:
+# Variables that are taken with a human input and a check for the directories existence, if the directory doesn't exit, the script will give a red message:
 
 read -p "Type your name: " name
 read -p "Type which directory you want to backup: " backupdir
